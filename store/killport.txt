@@ -1,0 +1,4 @@
+netstat -ano | findstr :2000
+taskkill /PID <PID> /F а место <PID> пропиши ключь из терминала
+
+
